@@ -42,8 +42,7 @@ namespace DU_Launcher
                 start_btn.Enabled = false;
                 return;
             }
-
-
+            start_btn.Enabled = true;
 
             try
             {
